@@ -92,7 +92,8 @@ main {
 }
 
 .recipe-detail img {
-    width: 100%;
+    width: 80%;
+    height: auto;
     border-radius: 5px;
     margin-bottom: 20px;
     animation: fadeIn 2s;
